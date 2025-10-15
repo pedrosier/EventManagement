@@ -30,8 +30,14 @@ dotnet restore
 
 # Executar testes
 
-dotnet test
+dotnet test EventManagement.Domain.Tests
 
 # Executar aplicação
 
 dotnet run --project .\src\EventManagement.ConsoleApp\
+
+## 👥 Aluno
+Pedro Reis
+
+## 👥 Orientador
+Prof. Dr. Everton Coimbra
