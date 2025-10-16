@@ -2,7 +2,8 @@
 
 ## 📋 Descrição
 
-Este projeto é um sistema de gerenciamento de eventos desenvolvido para gerenciar palestrantes, locais e eventos, aplicando programação defensiva e null safety em C#.
+Este repositório contém a solução para o Desafio Prático (Trabalho 16/10) –  sistema de gerenciamento de eventos desenvolvido para gerenciar palestrantes, locais e eventos, aplicando programação defensiva e null safety em C#.
+Projeto para a disciplina Programação Orientada a Objetos (UTFPR - Câmpus Medianeira).
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -39,5 +40,7 @@ dotnet run --project .\src\EventManagement.ConsoleApp\
 ## 👥 Aluno
 Pedro Reis
 
-## 👥 Orientador
-Prof. Dr. Everton Coimbra
+## 📘 Informações da Disciplina
+- **Curso:** Ciência da Computação  
+- **Disciplina:** Programação Orientada a Objetos  
+- **Orientador:** Prof. Dr. Everton Coimbra
